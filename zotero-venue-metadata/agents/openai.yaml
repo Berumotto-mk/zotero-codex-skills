@@ -1,0 +1,6 @@
+interface:
+  display_name: "Zotero Venue Metadata"
+  short_description: "Verify and update Zotero venue metadata"
+  default_prompt: "Use $zotero-venue-metadata to verify this paper's journal or conference online and update its Zotero item."
+policy:
+  allow_implicit_invocation: true
