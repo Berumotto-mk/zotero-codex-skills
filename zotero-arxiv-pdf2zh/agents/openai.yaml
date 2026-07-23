@@ -1,0 +1,6 @@
+interface:
+  display_name: "Zotero arXiv PDF2ZH"
+  short_description: "Save and translate arXiv papers"
+  default_prompt: "Use $zotero-arxiv-pdf2zh to save an arXiv paper to Zotero, translate its PDF, and verify sync safety."
+policy:
+  allow_implicit_invocation: true
